@@ -1,5 +1,5 @@
 import React from 'react';
-import '/Users/jigardesai/Desktop/LEARNING/IC Manage Assessment/my-app/app/globals.css';
+import '../styles/globals.css';
 
 const Users = ({ users }) => {
   return (
